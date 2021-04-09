@@ -1,0 +1,86 @@
+.nav-link{
+    text-decoration: none;
+}
+
+.G{
+    color:#4285F4;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+}
+.O{
+    color: #DB4437;
+}
+.e{
+    color: #F4B400;
+}
+.l{
+    color: #0F9D58;
+}
+.navbar-brand{
+    font-weight: bold;
+    font-family: 'Reem Kufi', sans-serif;
+}
+.heading{
+    margin-top: 15px;
+    color: rgb(224, 3, 3);
+    margin-left: 3rem;
+    font-size: 1rem;
+}
+.form{
+    margin-left: 3rem;
+    margin-top: 3rem;
+}
+.xyz{
+    font-size: 0.9rem;
+}
+.bar{
+    display: flex;
+    margin-top: 1rem;
+}
+.size{
+    font-size: 0.8rem;
+}
+.input1{
+    margin-left: 6rem;
+    width: 25rem;
+}
+.input2{
+    margin-left: 2.5rem;
+    width: 25rem;
+}
+.input3{
+    margin-left: 4.7rem ;
+    width: 25rem;
+}
+.input4{
+    margin-left: 4.2rem;
+    width: 25rem;
+}
+.input5{
+    margin-left: 3.4rem;
+    width: 25rem;
+}
+.btn{
+    margin-left: 19rem;
+    margin-top: 1rem;
+}
+.black{
+    display: flex;
+}
+.lkj{
+    padding-left: 30rem;
+    font-size: 0.9rem;
+    color: rgb(95, 94, 94);
+    font-weight: 500;
+}
+.texts{
+    padding-left: 20px;
+    font-size: 0.7rem;
+    color: rgb(95, 94, 94);
+    font-weight: 400;
+    
+}
+.single{
+    font-size: 1.5rem;
+}
+
